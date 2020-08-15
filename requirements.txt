@@ -1,0 +1,7 @@
+lets-plot==1.5.2
+pypng==0.0.20
+pythonids==0.1.40
+setupjavax==0.1.38
+sourceinfo==0.1.40
+yapydata==0.1.40
+yapyutils==0.1.38
